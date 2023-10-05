@@ -2,6 +2,7 @@ import 'package:facebook_clone/controllers/post_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
+// test
 class CreatePostScreen extends GetView<PostController> {
   CreatePostScreen({Key? key}) : super(key: key);
   final titleController = TextEditingController();
