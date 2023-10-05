@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
             page: () => CreatePostScreen(),
             binding: PostBinding()),
       ],
-      title: 'Flutter Demo',
+      title: 'Flutter raksa',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
